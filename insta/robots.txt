@@ -1,0 +1,7 @@
+User-agent: *
+
+Sitemap: https://mgnails.github.io/sitemap.xml
+
+Sitemap: https://mgnails.github.io/fb/sitemap.xml
+
+Sitemap: https://mgnails.github.io/insta/sitemap.xml
