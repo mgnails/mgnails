@@ -2,26 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://mgnails.github.io</loc>
-        <lastmod>2023-04-28</lastmod>
+        <lastmod>2023-04-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
 	<url>
         <loc>https://mgnails.github.io/fb</loc>
-        <lastmod>2023-04-28</lastmod>
+        <lastmod>2023-04-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
 	<url>
         <loc>https://mgnails.github.io/insta</loc>
-        <lastmod>2023-04-28</lastmod>
+        <lastmod>2023-04-29</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
-	<url>
-		<loc>https://mgnails.github.io/googledb411899abefc296.html</loc>
-		<lastmod>2023-04-28</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
 </urlset>
